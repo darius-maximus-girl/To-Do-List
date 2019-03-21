@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/darius-maximus-girl/To-Do-List/precache-manifest.e950217846026dcc66de6ea93c13842b.js"
+  "/To-Do-List/precache-manifest.921524e44d6df3ebc2b7dd1cde11563b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/darius-maximus-girl/To-Do-List/index.html", {
+workbox.routing.registerNavigationRoute("/To-Do-List/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,13 +1,13 @@
 {
-  "main.css": "/darius-maximus-girl/To-Do-List/static/css/main.e763e88f.chunk.css",
-  "main.js": "/darius-maximus-girl/To-Do-List/static/js/main.d4c0c097.chunk.js",
-  "main.js.map": "/darius-maximus-girl/To-Do-List/static/js/main.d4c0c097.chunk.js.map",
-  "runtime~main.js": "/darius-maximus-girl/To-Do-List/static/js/runtime~main.332536c4.js",
-  "runtime~main.js.map": "/darius-maximus-girl/To-Do-List/static/js/runtime~main.332536c4.js.map",
-  "static/js/2.8b2938bc.chunk.js": "/darius-maximus-girl/To-Do-List/static/js/2.8b2938bc.chunk.js",
-  "static/js/2.8b2938bc.chunk.js.map": "/darius-maximus-girl/To-Do-List/static/js/2.8b2938bc.chunk.js.map",
-  "index.html": "/darius-maximus-girl/To-Do-List/index.html",
-  "precache-manifest.e950217846026dcc66de6ea93c13842b.js": "/darius-maximus-girl/To-Do-List/precache-manifest.e950217846026dcc66de6ea93c13842b.js",
-  "service-worker.js": "/darius-maximus-girl/To-Do-List/service-worker.js",
-  "static/css/main.e763e88f.chunk.css.map": "/darius-maximus-girl/To-Do-List/static/css/main.e763e88f.chunk.css.map"
+  "main.css": "/To-Do-List/static/css/main.e763e88f.chunk.css",
+  "main.js": "/To-Do-List/static/js/main.d4c0c097.chunk.js",
+  "main.js.map": "/To-Do-List/static/js/main.d4c0c097.chunk.js.map",
+  "runtime~main.js": "/To-Do-List/static/js/runtime~main.2fdc73a5.js",
+  "runtime~main.js.map": "/To-Do-List/static/js/runtime~main.2fdc73a5.js.map",
+  "static/js/2.8b2938bc.chunk.js": "/To-Do-List/static/js/2.8b2938bc.chunk.js",
+  "static/js/2.8b2938bc.chunk.js.map": "/To-Do-List/static/js/2.8b2938bc.chunk.js.map",
+  "index.html": "/To-Do-List/index.html",
+  "precache-manifest.921524e44d6df3ebc2b7dd1cde11563b.js": "/To-Do-List/precache-manifest.921524e44d6df3ebc2b7dd1cde11563b.js",
+  "service-worker.js": "/To-Do-List/service-worker.js",
+  "static/css/main.e763e88f.chunk.css.map": "/To-Do-List/static/css/main.e763e88f.chunk.css.map"
 }
