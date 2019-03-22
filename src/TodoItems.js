@@ -1,7 +1,9 @@
 import React, {Component} from "react";
 
-class TodoItems extends Component {
+let checked = false;
 
+class TodoItems extends Component {
+    
     constructor(props) {
         super(props);
 
@@ -10,7 +12,13 @@ class TodoItems extends Component {
     }
 
     addClass(e) {
+        if (checked === false) {
+        checked = true;
         e.target.classList.add('checked')
+        } else {
+        checked = false;
+        e.target.classList.remove('checked')
+        }
     }
 
     createTasks(item) {
